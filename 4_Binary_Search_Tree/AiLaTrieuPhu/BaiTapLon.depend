@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606751376 source:c:\users\truon\onedrive\máy tính\ \ktlt\vinh\baitaplon\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<ctime>
+	<time.h>
+	<iomanip>
+

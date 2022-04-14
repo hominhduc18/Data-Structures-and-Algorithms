@@ -1,0 +1,5 @@
+﻿  SX_mang1chieu.cpp
+E:\C++\BT_TH\SX_mang1chieu\SX_mang1chieu\SX_mang1chieu.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\BT_TH\SX_mang1chieu\SX_mang1chieu\SX_mang1chieu.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\BT_TH\SX_mang1chieu\SX_mang1chieu\SX_mang1chieu.cpp(117): warning C4715: 'TimNhiPhan': not all control paths return a value
+  SX_mang1chieu.vcxproj -> E:\C++\BT_TH\SX_mang1chieu\x64\Debug\SX_mang1chieu.exe

@@ -1,0 +1,3 @@
+﻿  sxtructiep(interchange).cpp
+E:\C++\sxtructiep(interchange)\sxtructiep(interchange)\sxtructiep(interchange).cpp(42,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sxtructiep(interchange).vcxproj -> E:\C++\sxtructiep(interchange)\x64\Debug\sxtructiep(interchange).exe

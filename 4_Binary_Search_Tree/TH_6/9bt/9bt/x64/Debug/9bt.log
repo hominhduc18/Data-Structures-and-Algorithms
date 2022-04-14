@@ -1,0 +1,5 @@
+﻿  9bt.cpp
+E:\C++\Binary_Search_Tree\TH_6\9bt\9bt\9bt.cpp(9,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\C++\Binary_Search_Tree\TH_6\9bt\9bt\9bt.cpp(136): warning C4717: 'Search_Node_Max': recursive on all control paths, function will cause runtime stack overflow
+E:\C++\Binary_Search_Tree\TH_6\9bt\9bt\9bt.cpp(126): warning C4717: 'Search_Node_Min': recursive on all control paths, function will cause runtime stack overflow
+  9bt.vcxproj -> E:\C++\Binary_Search_Tree\TH_6\9bt\x64\Debug\9bt.exe

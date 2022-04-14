@@ -1,0 +1,3 @@
+﻿  setting_birnary.cpp
+E:\C++\Binary_Search_Tree\setting_birnary\setting_birnary\setting_birnary.cpp(11,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\C++\Binary_Search_Tree\setting_birnary\setting_birnary\setting_birnary.cpp(65,5): error C2065: 'cou': undeclared identifier

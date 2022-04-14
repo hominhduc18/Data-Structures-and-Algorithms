@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\C++\Binary_Search_Tree\test\test\test.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\C++\Binary_Search_Tree\test\test\test.cpp(115,5): error C3861: 'timnodecha': identifier not found
+E:\C++\Binary_Search_Tree\test\test\test.cpp(118,5): error C3861: 'timnut': identifier not found

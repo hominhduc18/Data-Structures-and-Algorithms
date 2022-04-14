@@ -1,0 +1,80 @@
+#include <stdio.h>
+#include "stdlib.h"
+
+
+
+struct ttNode
+{
+int data;
+struct ttNode *left,*right;
+};
+
+
+
+typedef struct ttNode Node;
+
+
+
+typedef struct Node* Tree;
+
+
+
+
+Node * createNode(int x){
+Node *p;
+p = (Node*)malloc(sizeof(Node));
+if(p==NULL)
+{
+printf("Het bo nho de cap nhat");
+exit(0);
+}
+p->data = x;
+p->left = NULL;
+p->right = NULL;
+return p;
+}
+
+
+
+Node* createTree(Node *p, int x)
+{
+printf("Nhap node :");
+scanf("%d",&x);
+if(x==0)
+return NULL;
+p = createNode(x);
+printf("Nhap con ben trai cua %d : ",x);
+p->left = createTree(p->left,x);
+printf("Nhap con ben phai cua %d : ",x);
+p->right = createTree(p->right,x);
+return p;
+}
+
+
+
+
+
+void NLR(Node* T)
+{
+if(T != NULL)
+{
+printf("%d\t",T->data);
+NLR(T->left);
+NLR(T->right);
+}
+}
+
+
+
+
+int main(int argc, char *argv[])
+{
+Tree T;
+T = NULL;
+Node *p = NULL;
+int x;
+T = createTree(p,x);
+NLR(T);
+
+return 0;
+}

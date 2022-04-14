@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+E:\C++\BT_TH\Sort\Sort\Sort\Sort.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\BT_TH\Sort\Sort\Sort\Sort.cpp(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\BT_TH\Sort\Sort\Sort\Sort.cpp(173,15): warning C4101: 'x': unreferenced local variable
+E:\C++\BT_TH\Sort\Sort\Sort\Sort.cpp(214,20): warning C4101: 'x': unreferenced local variable
+  Sort.vcxproj -> E:\C++\BT_TH\Sort\Sort\x64\Debug\Sort.exe

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604669290 source:c:\users\truon\onedrive\máy tính\ \ktlt\vinh\anhviet\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1604669290 source:d:\learn\ktlt\project\anhviet\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

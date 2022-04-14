@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+E:\C++\Binary_Search_Tree\TH_6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\C++\Binary_Search_Tree\TH_6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50): warning C4715: 'themnode': not all control paths return a value
+  ConsoleApplication1.vcxproj -> E:\C++\Binary_Search_Tree\TH_6\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
