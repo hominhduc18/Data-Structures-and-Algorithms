@@ -1,0 +1,5 @@
+﻿  so_chinh_phuong.cpp
+E:\C++\Binary_Search_Tree\so_chinh_phuong\so_chinh_phuong\so_chinh_phuong.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\Binary_Search_Tree\so_chinh_phuong\so_chinh_phuong\so_chinh_phuong.cpp(24,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\C++\Binary_Search_Tree\so_chinh_phuong\so_chinh_phuong\so_chinh_phuong.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  so_chinh_phuong.vcxproj -> E:\C++\Binary_Search_Tree\so_chinh_phuong\x64\Debug\so_chinh_phuong.exe
